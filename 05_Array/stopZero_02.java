@@ -22,5 +22,6 @@ public class stopZero_02 {
             }
            System.out.println(i);
         }
+        sc.close();
     }
 }
