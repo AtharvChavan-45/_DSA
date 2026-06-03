@@ -23,7 +23,7 @@ public class LowestNum_01 {
                 lowestNum = i;
             }
         }
-
+        sc.close();
         System.out.println("Lowest number in arry: " + lowestNum);
         
     }
