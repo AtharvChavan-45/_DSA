@@ -29,7 +29,7 @@ public class TwoSum {
         int target = sc.nextInt();
         int[] ans= obj.solution(arr,target);
         System.out.println(Arrays.toString(ans));
-        
+        sc.close();
         // System.out.println(arr);
         /*
         for(int i:arr){
